@@ -18,5 +18,5 @@ UIView class object - the view can be dragged only vertically or horizontally (u
 UIViewController itself implements UIResponder methods for detect if touch is long or short and if it is double touch or single touch.
 
 
-![A](https://github.com/Lilyeka/Emmiter/blob/master/Emitter/result.png "")
+![A](https://github.com/Lilyeka/InterpretingTouches/blob/master/Touches/resultScreen.png "")
 
