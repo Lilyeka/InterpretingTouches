@@ -1,6 +1,6 @@
 # InterpretingTouches example and UIGestureRecognizer subclassing example
 
-On the UIViewController view I've add 4 objects:
+On the UIViewController's view I've add 4 objects:
 
 DraggedView class object - the view can be dragged any direction
 
