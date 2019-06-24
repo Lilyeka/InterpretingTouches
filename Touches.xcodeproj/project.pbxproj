@@ -16,6 +16,7 @@
 		61084AD022B8D27A00D66E53 /* DraggedOneDirectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084ACF22B8D27A00D66E53 /* DraggedOneDirectionView.swift */; };
 		61084AF022C0AA7F00D66E53 /* UIPanHorizontally.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084AEF22C0AA7E00D66E53 /* UIPanHorizontally.swift */; };
 		61084AF222C0B01800D66E53 /* UIPanVertically.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084AF122C0B01800D66E53 /* UIPanVertically.swift */; };
+		61084AF422C0BEF700D66E53 /* resultScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 61084AF322C0BEF600D66E53 /* resultScreen.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		61084ACF22B8D27A00D66E53 /* DraggedOneDirectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DraggedOneDirectionView.swift; sourceTree = "<group>"; };
 		61084AEF22C0AA7E00D66E53 /* UIPanHorizontally.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIPanHorizontally.swift; sourceTree = "<group>"; };
 		61084AF122C0B01800D66E53 /* UIPanVertically.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIPanVertically.swift; sourceTree = "<group>"; };
+		61084AF322C0BEF600D66E53 /* resultScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = resultScreen.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				61084AF122C0B01800D66E53 /* UIPanVertically.swift */,
 				61084ACD22B8D00B00D66E53 /* DraggedView.swift */,
 				61084ACF22B8D27A00D66E53 /* DraggedOneDirectionView.swift */,
+				61084AF322C0BEF600D66E53 /* resultScreen.png */,
 				61084ABF22B8CFCD00D66E53 /* Main.storyboard */,
 				61084AC222B8CFD200D66E53 /* Assets.xcassets */,
 				61084AC422B8CFD200D66E53 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			files = (
 				61084AC622B8CFD200D66E53 /* LaunchScreen.storyboard in Resources */,
 				61084AC322B8CFD200D66E53 /* Assets.xcassets in Resources */,
+				61084AF422C0BEF700D66E53 /* resultScreen.png in Resources */,
 				61084AC122B8CFCD00D66E53 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
