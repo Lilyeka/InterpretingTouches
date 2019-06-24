@@ -14,6 +14,8 @@
 		61084AC622B8CFD200D66E53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61084AC422B8CFD200D66E53 /* LaunchScreen.storyboard */; };
 		61084ACE22B8D00B00D66E53 /* DraggedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084ACD22B8D00B00D66E53 /* DraggedView.swift */; };
 		61084AD022B8D27A00D66E53 /* DraggedOneDirectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084ACF22B8D27A00D66E53 /* DraggedOneDirectionView.swift */; };
+		61084AF022C0AA7F00D66E53 /* UIPanHorizontally.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084AEF22C0AA7E00D66E53 /* UIPanHorizontally.swift */; };
+		61084AF222C0B01800D66E53 /* UIPanVertically.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61084AF122C0B01800D66E53 /* UIPanVertically.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		61084AC722B8CFD200D66E53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61084ACD22B8D00B00D66E53 /* DraggedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DraggedView.swift; sourceTree = "<group>"; };
 		61084ACF22B8D27A00D66E53 /* DraggedOneDirectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DraggedOneDirectionView.swift; sourceTree = "<group>"; };
+		61084AEF22C0AA7E00D66E53 /* UIPanHorizontally.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIPanHorizontally.swift; sourceTree = "<group>"; };
+		61084AF122C0B01800D66E53 /* UIPanVertically.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIPanVertically.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,12 +64,14 @@
 			children = (
 				61084ABB22B8CFCD00D66E53 /* AppDelegate.swift */,
 				61084ABD22B8CFCD00D66E53 /* ViewController.swift */,
+				61084AEF22C0AA7E00D66E53 /* UIPanHorizontally.swift */,
+				61084AF122C0B01800D66E53 /* UIPanVertically.swift */,
+				61084ACD22B8D00B00D66E53 /* DraggedView.swift */,
+				61084ACF22B8D27A00D66E53 /* DraggedOneDirectionView.swift */,
 				61084ABF22B8CFCD00D66E53 /* Main.storyboard */,
 				61084AC222B8CFD200D66E53 /* Assets.xcassets */,
 				61084AC422B8CFD200D66E53 /* LaunchScreen.storyboard */,
 				61084AC722B8CFD200D66E53 /* Info.plist */,
-				61084ACD22B8D00B00D66E53 /* DraggedView.swift */,
-				61084ACF22B8D27A00D66E53 /* DraggedOneDirectionView.swift */,
 			);
 			path = Touches;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 			files = (
 				61084AD022B8D27A00D66E53 /* DraggedOneDirectionView.swift in Sources */,
 				61084ABE22B8CFCD00D66E53 /* ViewController.swift in Sources */,
+				61084AF222C0B01800D66E53 /* UIPanVertically.swift in Sources */,
+				61084AF022C0AA7F00D66E53 /* UIPanHorizontally.swift in Sources */,
 				61084ACE22B8D00B00D66E53 /* DraggedView.swift in Sources */,
 				61084ABC22B8CFCD00D66E53 /* AppDelegate.swift in Sources */,
 			);
